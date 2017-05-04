@@ -565,13 +565,13 @@ height: 35px;
 	font-weight:700;
 }
 .b-animate img{
-	margin-top: 4%;
+	margin-top: 40%;
 	display: -webkit-inline-box;
 }
 .b-animate span{
 	display:block;
 	font-size: 1.5em;
-	padding-top: 5em;
+	padding--IN: 5em;
 	display: block;
 	font-weight: 500;
 }
@@ -620,6 +620,10 @@ height: 35px;
 }
 .men2:hover .b-from-top{
 	top:0;
+}
+.top-in0{
+	min-height: 100%;
+	padding: 20%;
 }
 .top-in1{
 	min-height: 204px;
