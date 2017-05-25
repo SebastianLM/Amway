@@ -667,8 +667,10 @@ height: 35px;
 /*--footer--*/
 .footer{
 	background:#141414;
-	top:790px;
-    position: relative;
+	top:59.7%;
+    position: fixed;
+    `width: 100%;
+
 }
 .amet-sed h4{
 	font-size: 1.5em;
@@ -2810,10 +2812,6 @@ a.item_add p.number {
 }
 .cont {
     min-height: 145em;
-}
-.footer {
-    background: #141414;
-    padding: 1.5em 0 0;
 }
 .logo h1 a {
     font-size: 0.75em;
