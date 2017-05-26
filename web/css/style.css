@@ -438,7 +438,7 @@ height: 35px;
 }*/
 /*--content-top--*/
 .cont {
-	top:480px;
+	top:450px;
     position: relative;
     min-height: 66em;
 }
@@ -667,9 +667,9 @@ height: 35px;
 /*--footer--*/
 .footer{
 	background:#141414;
-	top:59.7%;
-    position: fixed;
-    `width: 100%;
+	top:59.4%;
+    position: center;
+    width: 100%;
 
 }
 .amet-sed h4{
